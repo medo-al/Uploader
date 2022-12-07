@@ -29,3 +29,8 @@ A Simple Telegram Bot to Upload Files From **Direct Links** and **Google Drive L
 ### 💜 Railway
 
 [![Deploy To Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/prxpostern/URLtoTG001&envs=API_ID,API_HASH,BOT_TOKEN)
+
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?)
+  
+  
